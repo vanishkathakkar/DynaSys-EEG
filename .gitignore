@@ -1,0 +1,19 @@
+# Python virtual environments
+venv/
+env/
+.env
+# Datasets and Results
+Dataset/
+data/
+results/
+# Auto-generated files and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+# IDE/OS files
+.vscode/
+.idea/
+.DS_Store
